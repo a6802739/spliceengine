@@ -245,7 +245,7 @@ _**Bug Fixes**_
 Known issues and workarounds in 2.6 Release
 -----------------------------------------------
 Known issues and workarounds can be found at:
-<http://doc.splicemachine.com/onprem_info_release.html>
+<http://doc.splicemachine.com/onprem_info_workarounds.html>
 
 For a full list of JIRA's for the Community/Open Source software, see <https://splice.atlassian.net>
 
